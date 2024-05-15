@@ -17,7 +17,7 @@ variables:
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 # The version of dotnet core to use.
-  Build.DotNetCoreVersion: 3.x
+  Build.DotNetCoreVersion: 8.x
 
 resources:
   repositories:
